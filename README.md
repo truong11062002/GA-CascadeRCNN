@@ -1,6 +1,6 @@
 # Guided Anchoring Cascade RCNN
 
-> [Guided Anchoring Cascade R-CNN: An intensive improvement of R-CNN in Vietnamese Document Detection](https://arxiv.org/abs/2008.10032)
+> [Guided Anchoring Cascade R-CNN: An intensive improvement of R-CNN in Vietnamese Document Detection](https://ieeexplore.ieee.org/abstract/document/9701510)
 
 <!-- [ALGORITHM] -->
 
